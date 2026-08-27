@@ -4,24 +4,24 @@ A documentation for the game Sub Below.
 Adventure Submarine Game
 
 World:
-Green Acid Area:
+### Green Acid Area:
 The Broken Amsterdam
 Shepard Farmhouse
 
-Blue Sewers Area:
+### Blue Sewers Area:
 Tear Kingdom
 
-Black Nest Area:
+### Black Nest Area:
 Giant Centipede Cave
 Giant Spider Cave
 
-Orange Remnant Area:
+### Orange Remnant Area:
 Moonlight Castle
 
-Pink Crystal Area:
+### Pink Crystal Area:
 The Rock Sisters Castle
 
-Purple Magic Area:
+### Purple Magic Area:
 Amethyst Cave
 
-Red Blood Ocean Area:
+### Red Blood Ocean Area:
