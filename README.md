@@ -1,5 +1,6 @@
 # Sub-Below-Documentation
 A documentation for the game Sub Below.
+Sub Below is a 2D exploration game where you control a submarine. You were an explorer and you were trying to dig deeper on the rumors that an underground world exists under the earth, and that is when you accidently got absorbed by a giant whirlpool. You thought it was your death but you are now found very deep down underground. An entire ocean of water is found beneath you and the remains of many buildings and creatures lie here. Many humans seems to have been living in this dangerous underground world for years and it seems like they have their own civilization. Castles, Kingdoms, buildings, and many more structures were built here for everyone to live. The world is not safe however. Many deadly sea creatures are roaming around. You have to take your little submarine and upgrade it. You can even recruit people that you meet on your crew and travel with them. Your goal is to find your way out while also documenting everything to prove to the world above that this underground world DOES indeed exist. It is an exploration game that is very much a visual novel too. You will stop at many islands and go to different buildings and talk to a lot of people in a visual novel way. You can befriend them, learn from them, and some you can even invite to your submarine. The game also features combat with a lot of sea enemies and a few very difficult boss fights that you can fight using canons. This game is viewed from the top. You can play however you want. You can customize your character, upgrade your submarine however you want, you don't need all upgrades, maybe you want to make your submarine bigger for more people to join in but that will make it difficult to enter some tight spaces. You can do side quests or ignore them. You can fight bosses or ignore them. You can invite whoever you want. You play as you like. 
 
 Adventure Submarine Game
 
@@ -21,7 +22,10 @@ Moonlight Castle
 ### Pink Crystal Area:
 The Rock Sisters Castle
 
-### Purple Magic Area:
+### Purple Area:
 Amethyst Cave
+
+### Neon Green & Black Area:
+Science Lab
 
 ### Red Blood Ocean Area:
