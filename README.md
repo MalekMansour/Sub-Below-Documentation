@@ -6,6 +6,7 @@ Adventure Submarine Game
 World:
 Green Acid Area:
 The Broken Amsterdam
+Shepard Farmhouse
 
 Blue Sewers Area:
 Tear Kingdom
@@ -15,9 +16,10 @@ Giant Centipede Cave
 Giant Spider Cave
 
 Orange Remnant Area:
-Moonlight Kingdom
+Moonlight Castle
 
 Pink Crystal Area:
+The Rock Sisters Castle
 
 Purple Magic Area:
 Amethyst Cave
