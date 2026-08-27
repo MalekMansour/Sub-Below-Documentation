@@ -42,3 +42,11 @@ Sector Zero
 Bone Marrow Island
 Crimson Island
 
+
+## Upgrades
+Headlights: 0/4
+Speed: 1/8
+Size: 1/7
+Reinforcements: 0/10
+Canon: 0/8
+
