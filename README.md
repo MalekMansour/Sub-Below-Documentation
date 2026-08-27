@@ -5,27 +5,40 @@ Sub Below is a 2D exploration game where you control a submarine. You were an ex
 Adventure Submarine Game
 
 World:
-### Green Acid Area:
-The Broken Amsterdam
-Shepard Farmhouse
+### Wasteland
+The Broken Dame Island
+Shepard Farmhouse Island
 
-### Blue Sewers Area:
+### Blue Sewers 
 Tear Kingdom
+Stockholm Island
+Floodgate Island
+Slygate Island
 
-### Black Nest Area:
-Giant Centipede Cave
-Giant Spider Cave
+### Dark Nest 
+Centipede Cave
+Spider Cave (Giant Spider Boss)
+Agony Kingdom (Path Of Angony)
+
+### Rotting Reefs
+Blighted Haven Island
 
 ### Orange Remnant Area:
-Moonlight Castle
+Moonlight Kingdom 
 
 ### Pink Crystal Area:
-The Rock Sisters Castle
+Rockie Sisters Kingdom
+Rosie Citadel
 
 ### Purple Area:
 Amethyst Cave
 
 ### Neon Green & Black Area:
-Science Lab
+Labotory
+Sector Zero
+
 
 ### Red Blood Ocean Area:
+Bone Marrow Island
+Crimson Island
+
