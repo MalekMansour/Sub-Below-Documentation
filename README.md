@@ -37,7 +37,6 @@ Amethyst Cave
 Labotory
 Sector Zero
 
-
 ### Red Blood Ocean Area:
 Bone Marrow Island
 Crimson Island
@@ -49,4 +48,5 @@ Speed: 1/8
 Size: 1/7
 Reinforcements: 0/10
 Canon: 0/8
+Rotation Speed: 1/7
 
