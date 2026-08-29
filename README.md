@@ -23,7 +23,7 @@ Agony Kingdom (Path Of Angony)
 ### Rotting Reefs
 Blighted Haven Island
 
-### Orange Remnant Area:
+### Sunrise Remnant Area:
 Moonlight Kingdom 
 
 ### Pink Crystal Area:
@@ -41,6 +41,7 @@ Sector Zero
 Bone Marrow Island
 Crimson Island
 
+--------------------------------------
 
 ## Upgrades
 Headlights: 0/4
