@@ -19,6 +19,7 @@ Slygate Island
 Centipede Cave
 Spider Cave (Giant Spider Boss)
 Agony Kingdom (Path Of Angony)
+Nightmare Island
 
 ### Rotting Reefs
 Blighted Haven Island
