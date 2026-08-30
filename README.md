@@ -58,4 +58,5 @@ How To Implement:
 Using Renpy Visual Novel Maker would make the creation of the characters and story elements extremly easy but then the game would look
 too much like a visual novel. The problem is that making a visual novel on unity is very difficult.
 Making the movement of the sub isn't as complicated on Unity but ofc impossible on renpy. Making the movement on python wouldn't be hard at all tho and making a visual novel on it.
+The problem would be making the different islands on the map... That would be... hmmm I mean if we used coordinates for the map then maybe we could write in the code where the islands are and then we have their images.
 
