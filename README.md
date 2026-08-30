@@ -52,3 +52,10 @@ Reinforcements: 0/10
 Canon: 0/8
 Rotation Speed: 1/7
 
+--------------------------------------
+
+How To Implement:
+Using Renpy Visual Novel Maker would make the creation of the characters and story elements extremly easy but then the game would look
+too much like a visual novel. The problem is that making a visual novel on unity is very difficult.
+Making the movement
+
